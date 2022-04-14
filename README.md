@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rudraksh-Tandon
-- 👀 I’m interested in Competetive coding
+- 👀 I’m interested in Android development, Competetive coding
 - 🌱 I’m currently learning C++ / JAVA
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me - rudrakshtandon@gmail.com
